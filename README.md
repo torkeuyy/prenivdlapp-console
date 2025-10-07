@@ -80,16 +80,27 @@ prenivapp » exit
 
 ### Windows x64 (Intel/AMD)
 - **File**: `PrenivApp Downloader Console.exe`
-- **Platform**: `win-x64`
+- **Download**: [win-x64](https://github.com/arsya371/prenivdlapp-winform/releases/tag/v1.0.0)
 - **For**: Most Windows PCs
 
 ### Windows ARM64 (Qualcomm/Surface)
 - **File**: `PrenivApp Downloader Console.exe`
-- **Size**: ~15.29 MB
-- **Platform**: `win-arm64`
+- **Download**: [win-arm64](https://github.com/arsya371/prenivdlapp-winform/releases/tag/v1.0.0)
 - **For**: ARM-based Windows devices
 
 ## Security & Privacy
 - No data collection or telemetry
 - Downloads are direct from source platforms
 - Self-contained - no external dependencies
+
+> [!WARNING]
+> ### Disclaimer
+> This tool is for personal use only and may not be sold. Users are responsible for ensuring that they have the right to download and use any content. Respect copyright laws and platform terms of service.
+
+---
+
+## License
+
+Copyright © Preniv App Downloader - All rights reserved.
+
+Use responsibly and respect the terms of service of each platform.
