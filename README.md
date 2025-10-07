@@ -14,11 +14,17 @@ A small, fast console tool to download media from popular platforms with automat
 - **YouTube** - MP3 audio (320kbps) and MP4 video (multiple qualities)
 - **AIO DL** - All in One Downloader Support (Tiktok, Instagram, Facebook, Capcut, Douyin, Spotify, Twitter)
 
-## Download
-- Pick the file that matches your PC:
-  - **win-x64**: Most Windows 10/11 PCs (Intel/AMD)
-  - **win-arm64**: ARM-based Windows devices (Surface/Qualcomm)
-- No installation required - self-contained executable with Native AOT compilation.
+## Download Files
+
+### Windows x64 (Intel/AMD)
+- **File**: `PrenivApp Downloader Console.exe`
+- **Download**: [win-x64](https://github.com/arsya371/prenivdlapp-winform/releases/tag/v1.0.0)
+- **For**: Most Windows PCs
+
+### Windows ARM64 (Qualcomm/Surface)
+- **File**: `PrenivApp Downloader Console.exe`
+- **Download**: [win-arm64](https://github.com/arsya371/prenivdlapp-winform/releases/tag/v1.0.0)
+- **For**: ARM-based Windows devices
 
 ## Installation
 1. Download the appropriate version for your system
@@ -76,18 +82,6 @@ prenivapp » exit
 - **Storage**: 20 MB for app + space for downloads
 - **Internet**: Active connection required
 
-## Download Files
-
-### Windows x64 (Intel/AMD)
-- **File**: `PrenivApp Downloader Console.exe`
-- **Download**: [win-x64](https://github.com/arsya371/prenivdlapp-winform/releases/tag/v1.0.0)
-- **For**: Most Windows PCs
-
-### Windows ARM64 (Qualcomm/Surface)
-- **File**: `PrenivApp Downloader Console.exe`
-- **Download**: [win-arm64](https://github.com/arsya371/prenivdlapp-winform/releases/tag/v1.0.0)
-- **For**: ARM-based Windows devices
-
 ## Security & Privacy
 - No data collection or telemetry
 - Downloads are direct from source platforms
@@ -102,5 +96,4 @@ prenivapp » exit
 ## License
 
 Copyright © Preniv App Downloader - All rights reserved.
-
 Use responsibly and respect the terms of service of each platform.
