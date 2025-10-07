@@ -88,7 +88,7 @@ prenivapp » exit
 - Self-contained - no external dependencies
 
 > [!WARNING]
-> ### Disclaimer
+> **DISCLAIMER**
 > This tool is for personal use only and may not be sold. Users are responsible for ensuring that they have the right to download and use any content. Respect copyright laws and platform terms of service.
 
 ---
